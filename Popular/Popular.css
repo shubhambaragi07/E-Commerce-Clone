@@ -1,0 +1,28 @@
+.popular{
+    padding-top: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 15px;
+    /* background:mistyrose */
+}
+.popular h1{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+.popular hr
+{
+width: 250px;
+height: 6px;
+border-radius: 10px;
+background :darkslategray
+}
+.populer-items{
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap :40px
+}
